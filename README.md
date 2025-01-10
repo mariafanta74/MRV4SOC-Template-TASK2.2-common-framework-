@@ -1,2 +1,2 @@
-# MRV4SOC-Template-TASK2.2-common-framework-
+# MRV4SOC-Template-for stadard data exchange in carbon farming
 Template for standard data exchange under carbon farming
